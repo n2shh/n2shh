@@ -6,6 +6,6 @@
 
 </samp>
 
-  <img src="https://raw.githubusercontent.com/n2shh/n2shh/master/assets/pixelcat.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/n2shh/n2shh/main/pixelcat.png" width="200"/>
 
 </p>
