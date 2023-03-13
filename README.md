@@ -1,8 +1,8 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://nish.live/">Nish</a></b>.
-    <br>I'm a MERN Full Stack Developer, student at <a rel="nofollow noopener noreferrer" target="_blank" href="https://platzi.com/">Platzi</a>.<br>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://nishes.live/">Nish</a></b>.
+    <br>I'm a Frontend Developer and Software Engineer student at <a rel="nofollow noopener noreferrer" target="_blank" href="[https://platzi.com/](https://www.poli.edu.co/)">POLI</a>.<br>
 
 </samp>
 
