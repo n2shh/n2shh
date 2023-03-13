@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://nishes.live/">Nish</a></b>.
-    <br>I'm a Frontend Developer and Software Engineer student at <a rel="nofollow noopener noreferrer" target="_blank" href="[https://platzi.com/](https://www.poli.edu.co/)">POLI</a>.<br>
+    <br>I'm a Frontend Developer and Software Engineer student at <a rel="nofollow noopener noreferrer" target="_blank" href="https://poli.edu.co/">POLI</a>.<br>
 
 </samp>
 
